@@ -11,4 +11,4 @@ This repository contains a custom node for [ComfyUI](https://github.com/comfyano
 
 1. Clone this repository into the `custom_nodes` directory of your ComfyUI installation:
    ```bash
-   git clone https://github.com/Alvaroeai/ComfyUI-Text2Json.git ComfyUI/custom_nodes/text_to_json_node
+   git clone https://github.com/Alvaroeai/ComfyUI-Text2Json.git ComfyUI/custom_nodes/ComfyUI-Text2Json

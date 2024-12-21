@@ -1,0 +1,14 @@
+[project]
+name = "comfyui-text2json"
+description = "This repository contains a custom node for ComfyUI that converts text into a JSON object. The node is designed to be user-friendly and supports multi-line JSON input."
+version = "1.0.0"
+license = {file = "LICENSE"}
+
+[project.urls]
+Repository = "https://github.com/Alvaroeai/ComfyUI-Text2Json"
+#  Used by Comfy Registry https://comfyregistry.org
+
+[tool.comfy]
+PublisherId = ""
+DisplayName = "ComfyUI-Text2Json"
+Icon = ""
